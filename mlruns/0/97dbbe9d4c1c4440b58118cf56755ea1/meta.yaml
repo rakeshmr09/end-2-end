@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rakes/ML_projects/end-2-end/mlruns/0/97dbbe9d4c1c4440b58118cf56755ea1/artifacts
+end_time: 1733062106926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97dbbe9d4c1c4440b58118cf56755ea1
+run_name: magnificent-roo-107
+run_uuid: 97dbbe9d4c1c4440b58118cf56755ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733062104327
+status: 4
+tags: []
+user_id: rakes

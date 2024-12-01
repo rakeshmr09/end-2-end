@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rakes/ML_projects/end-2-end/mlruns/0/9d4a818ff98343ef9deb741f9263cfee/artifacts
+end_time: 1733061360250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d4a818ff98343ef9deb741f9263cfee
+run_name: bold-skink-182
+run_uuid: 9d4a818ff98343ef9deb741f9263cfee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733061357573
+status: 4
+tags: []
+user_id: rakes

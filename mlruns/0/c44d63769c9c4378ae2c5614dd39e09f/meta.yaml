@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rakes/ML_projects/end-2-end/mlruns/0/c44d63769c9c4378ae2c5614dd39e09f/artifacts
+end_time: 1733061170357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c44d63769c9c4378ae2c5614dd39e09f
+run_name: likeable-hen-472
+run_uuid: c44d63769c9c4378ae2c5614dd39e09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733061166988
+status: 4
+tags: []
+user_id: rakes
